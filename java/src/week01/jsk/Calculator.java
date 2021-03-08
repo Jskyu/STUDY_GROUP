@@ -1,4 +1,4 @@
-package jsk.week01;
+package week01.jsk;
 
 import java.util.*;
 
