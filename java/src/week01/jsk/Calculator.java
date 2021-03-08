@@ -46,6 +46,7 @@ public class Calculator {
                 temp = new StringBuilder();
             }
         }
+
         numbers.push(Double.valueOf(temp.toString()));
         Collections.reverse(numbers);
 
