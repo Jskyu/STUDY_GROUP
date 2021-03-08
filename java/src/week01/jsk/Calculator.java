@@ -5,7 +5,7 @@ import java.util.*;
 public class Calculator {
     public static void main(String[] args) {
 
-        String input = "1 * 10 + 3 + 4 ";
+        String input = "1 * 10 + 3 + 4";
 //[^0-9-+*/. ]
         char[] inputChars = input.replace(" ", "").trim().toCharArray();
 
